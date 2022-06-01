@@ -1,0 +1,49 @@
+#sound_buttons {
+    height: 210px;
+    width: 210px;
+}
+
+#body1 {
+    background-color: khaki;
+}
+
+#click {
+    color: crimson;
+}
+
+#animals {
+    height: 400px;
+    width: 300px;
+}
+
+#animal1 {
+    background-color: mediumaquamarine;
+}
+
+#animal_learning {
+    color: green;
+}
+
+#animal2 {
+    height: 400px;
+    width: 400px;
+}
+
+#vehicles3 {
+    background-color: orange;
+}
+
+#vehicles1 {
+    height: 400px;
+    width: 300px;
+}
+
+#vehicle2 {
+    height: 600px;
+    width: 600px;
+}
+
+#logo {
+    text-size-adjust: 100px;
+    color: red;
+}
